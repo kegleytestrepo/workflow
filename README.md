@@ -49,17 +49,17 @@ Once you've made changes to your code and commited the results, you may want to 
 
 ```
 git push <remote_name> <branch_name>
-```
-
+```adsadad
+s
 Say your team members have made contributions to the codebase and have pushed those changes to GitHub. In order to get those changes on your local repository, you must **pull** changes from a remote repository using  
 
 ```
-git pull <remote_name> <branch_name>
+git pull <remote_name> <branchsdaddddad_name>
 ```
 
 If you have used `git push origin master` or `git pull origin master`, this refers to pushing/pulling changes from a remote repository named *origin* into the *master* branch. 
 
-## Forking the repository 
+## Forking the repository asdsadasdasd
 dd
 Each team must create changes to their own version of this repository. In order to accomplish this, it is necessary to **fork** the repository. **Forking** creates a copy of the repository on your GitHub account/organization that you can modify through your own commits. In order to accomplish this: 
 
@@ -114,6 +114,7 @@ You will be demonstrating your knowledge of GitHub workflow and Scrum fundamenta
 5. Show the total number of items in the to-do list at above the list.  
  - This number should change when items are added / deleted (duh).
 6. A button to clear all "completed" tasks   
+
 
 #####In order to complete these tasks, you will need to:
 
